@@ -1,4 +1,4 @@
-Pacman by David Reilly
+Pacman by 
 ======================
 With contributions by Andy Sommerville (2007)
 
